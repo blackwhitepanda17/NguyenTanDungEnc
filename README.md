@@ -14,4 +14,7 @@ $\color{red}{\text{Chữ màu đỏ}}$ hoặc $\color{orange}{\text{Chữ màu c
 
 
 $\color{blue}{\text{Base65536}}$ là encoding thông thường
-$\color{cyan}{\text{NguyenTanDung}}$ $\color{limegreen}{\text{Encoding}}$ $\color{gold}{\text{V8}}$
+
+---
+
+$\color{navy}{\text{NguyenTanDung}}$ $\color{limegreen}{\text{Encoding}}$ $\color{gold}{\text{V8}}$
