@@ -9,3 +9,5 @@ from vip import nguyenthinhuong
 
 base65536.encode(data)
 ```
+
+$\color{red}{\text{Chữ màu đỏ}}$ hoặc $\color{orange}{\text{Chữ màu cam}}$.
