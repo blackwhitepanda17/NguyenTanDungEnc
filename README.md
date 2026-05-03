@@ -11,3 +11,9 @@ base65536.encode(data)
 ```
 
 $\color{red}{\text{Chữ màu đỏ}}$ hoặc $\color{orange}{\text{Chữ màu cam}}$.
+
+<pre>
+  + import nguyentandung (Dòng này sẽ có màu xanh lá)
+- from xinhgai import minhanhs (Dòng này sẽ có màu đỏ)
+
+</pre>
