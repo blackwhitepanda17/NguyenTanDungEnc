@@ -12,6 +12,5 @@ base65536.encode(data)
 
 $\color{red}{\text{Chữ màu đỏ}}$ hoặc $\color{orange}{\text{Chữ màu cam}}$.
 
-<pre>
+
 $\color{blue}{\text{Base65536}}$ là encoding thông thường
-</pre>
