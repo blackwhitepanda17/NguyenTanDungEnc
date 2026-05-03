@@ -17,4 +17,4 @@ $\color{blue}{\text{Base65536}}$ là encoding thông thường
 
 ---
 
-$\color{navy}{\text{NguyenTanDung}}$ $\color{limegreen}{\text{Encoding}}$ $\color{gold}{\text{V8}}$
+$\color{salmon}{\text{NguyenTanDung}}$ $\color{limegreen}{\text{Encoding}}$ $\color{gold}{\text{V8}}$
