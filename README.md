@@ -18,3 +18,6 @@ $\color{blue}{\text{Base65536}}$ là encoding thông thường
 ---
 
 $\color{salmon}{\text{NguyenTanDung}}$ $\color{limegreen}{\text{Encoding}}$ $\color{gold}{\text{V8}}$
+
+#BaseEncode
+- Các em đã quá quen với base64 và base85 rồi đúng không, mấy cái này là encoding signature rồi, nhưng giờ đây anh mang đến base65536 nó cũng là base thường thôi nó có 16bit/ký tự, điều này nó làm cho chuỗi byte trở lên ngắn hơn base64, nhưng tốc độ thì lại thua, vì nó không được hỗ trợ phổ biến như base64, thường phải custom rất nhiều, anh chia sẻ mã nguồn là để các em tham khảo, nó cũng có lợi thế trong công cụ làm dối mã hóa. Anh lười tối ưu nhặt code về tự tối ưu
